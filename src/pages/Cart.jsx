@@ -120,7 +120,7 @@
 
 // export default Cart;
 import React, { useContext, useState } from "react";
-import { StoreContext } from "../context/storeContext";
+import { StoreContext } from "../context/StoreContext";
 import { useNavigate } from "react-router";
 
 const Cart = () => {
