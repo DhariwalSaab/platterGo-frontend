@@ -5,7 +5,7 @@ import { ToastContainer, Bounce } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { GoogleOAuthProvider } from "@react-oauth/google";
 import App from "./App.jsx";
-import StoreContextProvider from "./context/storeContext.jsx";
+import StoreContextProvider from "./context/StoreContext.jsx";
 
 createRoot(document.getElementById("root")).render(
   <>
