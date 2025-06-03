@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router";
-import NavBar from "./component/navBar";
-import Home from "./pages/home";
+import NavBar from "./component/navBar.jsx";
+import Home from "./pages/Home.jsx";
 import Register from "./pages/Register.jsx";
 import Footer from "./component/Footer/Footer.jsx";
 import Login from "./pages/Login.jsx";
