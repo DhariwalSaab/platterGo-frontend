@@ -1,5 +1,5 @@
 import React, { useContext, useState, useEffect } from "react";
-import { StoreContext } from "../context/storeContext";
+import { StoreContext } from "../context/StoreContext";
 import { useNavigate } from "react-router";
 import axiosInstance from "../../axiosInstance";
 import { baseUrl } from "../../config";
