@@ -10,7 +10,7 @@ import HelpSupport from "./component/Footer/HelpSupport.jsx";
 import Cart from "./pages/Cart.jsx";
 import PlaceOrder from "./pages/PlaceOrder.jsx";
 import ExploreMenu from "./component/ExploreMenu/ExploreMenu.jsx";
-import ViewOrders from "./pages/viewOrders.jsx";
+import ViewOrders from "./pages/ViewOrders.jsx";
 import { GoogleOAuthProvider } from "@react-oauth/google";
 
 function App() {
