@@ -10,7 +10,7 @@ const FoodItem = ({ id, name, price, description, image }) => {
       <div className="food-item-img-container">
         <img
           className="food-item-image"
-          src={`https://plattergo-backend.onrender.com/api/${image}`}
+          src={`https://plattergo-backend.onrender.com/uploads/${image}`}
         />
         {!cartItem[id] ? (
           <img
