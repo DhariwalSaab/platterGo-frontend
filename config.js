@@ -1,1 +1,1 @@
-export const baseUrl = "http://localhost:3000/api";
+export const baseUrl = "https://plattergo-backend.onrender.com/api";
